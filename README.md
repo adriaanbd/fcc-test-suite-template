@@ -1,4 +1,5 @@
-# FCC Test Suite Template
+# Sample Technical Documentation Page
 
-Fork this project to start working on any of freeCodeCamp's responsive web design course projects.
-Select the project from the dropdown menu and run the tests to see which requirements your project is still missing.
+This project is the result of a remote pair programming session lasting two hours. Each participant switched roles between a Driver and Navigator, every two features or in an agreed time period.
+
+To view the page, please visit https://adriaanbd.github.io/microverse-technical-doc-page/
